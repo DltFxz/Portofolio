@@ -34,8 +34,8 @@ const Hero = () => {
                 <div className="relative mb-6">
                   <div className="w-full aspect-square rounded-2xl overflow-hidden border-2 border-primary/20 group-hover:border-primary/50 transition-colors">
                     <img
-                      src="/public/meee.jpg"
-                      alt="Your Name"
+                      src="/meee.jpg"
+                      alt="Faszlx"
                       className="w-full h-full object-cover"
                     />
                   </div>
