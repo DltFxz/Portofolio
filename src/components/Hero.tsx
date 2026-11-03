@@ -51,7 +51,7 @@ const Hero = () => {
                 {/* Name & Title */}
                 <div className="space-y-2">
                   <h1 className="text-2xl font-bold">
-                    Feri Arya Saputra
+                    Fer
                   </h1>
                   <p className="text-md gradient-text">He/Him</p>
 
@@ -61,7 +61,7 @@ const Hero = () => {
                       🇮🇩 Indonesia Lombok NTB
                     </span>
                     <span className="text-xs bg-gray-800 text-gray-300 px-3 py-1 rounded-full">
-                      2+ Years Exp
+                      3+ Years Exp
                     </span>
                   </div>
                 </div>
@@ -126,7 +126,7 @@ const Hero = () => {
                   transition={{ duration: 0.5, delay: 0.4 }}
                   className="text-4xl md:text-5xl lg:text-6xl font-bold"
                 >
-                  Hey Fellas
+                  Heyho Fellas
                   <br />
                   <span className="gradient-text">Howdy Friends</span>
                 </motion.h2>
@@ -216,15 +216,15 @@ const Hero = () => {
                 className="flex gap-6 md:gap-8 pt-6 border-t border-gray-800"
               >
                 <div>
-                  <div className="text-2xl font-bold gradient-text">50+</div>
+                  <div className="text-2xl font-bold gradient-text">50x</div>
                   <div className="text-gray-400 text-sm">Stress</div>
                 </div>
                 <div>
-                  <div className="text-2xl font-bold gradient-text">30+</div>
+                  <div className="text-2xl font-bold gradient-text">30x</div>
                   <div className="text-gray-400 text-sm">Frustrated</div>
                 </div>
                 <div>
-                  <div className="text-2xl font-bold gradient-text">2+</div>
+                  <div className="text-2xl font-bold gradient-text">3+</div>
                   <div className="text-gray-400 text-sm">Years Exp</div>
                 </div>
               </motion.div>

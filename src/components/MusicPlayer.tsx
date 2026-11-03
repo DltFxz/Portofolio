@@ -33,6 +33,9 @@ const MusicPlayer = () => {
   const dragRef = useRef(false);
 
   const playlist: Song[] = [
+    { title: "Ivy", artist: "Frank Ocean", file: "/audio/Frank_Ocean-Ivy.mp3" },
+    { title: "Nights", artist: "Frank Ocean", file: "/audio/frankocean-nights.mp3" },
+    { title: "Champagne Supernova", artist: "Oasis", file: "/audio/champagne-oasis.mp3" },
     { title: "West Coast", artist: "Lana Del Rey", file: "/audio/lana.mp3" },
     { title: "Remember The Time", artist: "Michael Jackson", file: "/audio/remember_the_time.mp3" },
     { title: "I Wanna Be Yours", artist: "Arctic Monkeys", file: "/audio/i-wanna-be-yours.mp3" },

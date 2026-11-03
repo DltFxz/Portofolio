@@ -79,7 +79,7 @@ const About = () => {
               {[
                 { label: "Projects", value: "10+" },
                 { label: "Technologies", value: "5+" },
-                { label: "Experience", value: "2+ yrs" },
+                { label: "Experience", value: "3+ yrs" },
               ].map((stat) => (
                 <div
                   key={stat.label}
