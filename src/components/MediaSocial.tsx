@@ -3,10 +3,9 @@ import {
   FiGithub,
   FiLinkedin,
   FiInstagram,
-  FiYoutube,
   FiGlobe,
 } from "react-icons/fi";
-import { SiSpotify, SiTiktok } from "react-icons/si";
+import { SiSpotify, SiTiktok, SiDiscord } from "react-icons/si";
 
 const SocialMedia = () => {
   const socialLinks = [
@@ -30,7 +29,7 @@ const SocialMedia = () => {
       name: "Instagram",
       icon: FiInstagram,
       url: "https://instagram.com/faszlx",
-      color: "hover:bg-purple-700/50",
+      color: "hover:bg-pink-700/50",
       username: "@Faszlx",
       description: "Daily life & behind the scenes",
     },
@@ -51,12 +50,12 @@ const SocialMedia = () => {
       description: "Tech tips & tutorials",
     },
     {
-      name: "YouTube",
-      icon: FiYoutube,
+      name: "Discord",
+      icon: SiDiscord,
       url: "#",
-      color: "hover:bg-red-700/50",
-      username: "@soon",
-      description: "Coding tutorials & projects",
+      color: "hover:bg-blue-600/50",
+      username: "feryiedlt",
+      description: "My Activity & Community",
     },
   ];
 
